@@ -1,4 +1,4 @@
-#Você acabou de encontrar uma mesa de jantar maior, portanto agora tem mais espaço
+#3.6 Você acabou de encontrar uma mesa de jantar maior, portanto agora tem mais espaço
 #disponível. Pense em mais três convidados para o jantar.
 #-Comece com seu programa do exercício 3.4 ou 3.5. Acrescente uma intrução print
 #no final do seu programa informando às pessoas que você encontrou uma mesa

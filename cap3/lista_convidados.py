@@ -1,4 +1,4 @@
-#Crie uma lista que convide ao menos três pessoas para jantar.
+#3.4 Crie uma lista que convide ao menos três pessoas para jantar.
 #Em seguida utilize sua lista para exibir uma mensagem para cada uma
 #convidando-a para jantar.
 

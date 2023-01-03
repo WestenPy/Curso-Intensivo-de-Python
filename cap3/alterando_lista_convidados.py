@@ -1,4 +1,4 @@
-#Você acbou de saber que um de seus convidos não poderá comparecer ao jantar,
+#3.5 Você acbou de saber que um de seus convidos não poderá comparecer ao jantar,
 # portanto será necessário enviar um novo conjunto de convites.
 # Você deverá pensr em outra pessoa para convidar.
 # -Comece com seu programa do exercício 3.4. Acrescente uma instrução print no
